@@ -1,7 +1,11 @@
 {
-  "id": "network_info",
-  "name": "Network Information",
+  "author": "NetScout-Go",
   "description": "Displays detailed information about the device's network connections",
   "icon": "network",
-  "parameters": []
+  "id": "network_info",
+  "license": "MIT",
+  "name": "Network Information",
+  "parameters": [],
+  "repository": "https://github.com/NetScout-Go/Plugin_network_info",
+  "version": "1.0.0"
 }
